@@ -1,8 +1,10 @@
 body{
     margin: 0px;
-
     font-family: 'Montserrat', sans-serif;
+}
 
+
+#responses{
     width: 60%;
     margin-left: auto;
     margin-right: auto;
@@ -22,4 +24,28 @@ p{
 
 hr{
     width: 50%;
+}
+
+#project{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#fin-proj{
+    padding-right: 10px;
+}
+
+.project-links{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+.project-links:hover{
+    font-weight: bold;
 }
