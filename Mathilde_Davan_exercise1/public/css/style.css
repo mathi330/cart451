@@ -1,0 +1,91 @@
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: #000000bb;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position: sticky;
+    top: 0;
+}
+
+input{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.03em;
+    background-color: antiquewhite;
+    border: none;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 10px;
+    cursor: pointer;
+}
+
+input:hover{
+    background-color: rgb(250, 235, 215, 0.9);
+}
+
+#main{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+.queriesDiv{
+    padding: 10px;
+    margin: 50px;
+    border-radius: 15px;
+}
+
+.secQueryDivs{
+    width: 20%;
+    padding: 10px;
+    margin: 50px;
+    float:left;
+    border-radius: 15px;
+    background-color: rgba(102, 0, 102, 0.2);
+}
+.secQueryClickableDivs{
+    color: black;
+}
+.secQueryDivs:hover{
+    color: #660066;
+    background-color: rgba(102, 0, 102, 0.1);
+}
+
+#queryTitle{
+    text-align: center;
+}
+
+.thirdQueryDiv{
+    background-color: black;
+    color: antiquewhite;
+    box-shadow: 5px 10px 6px #222222;
+    padding: 30px;
+    margin: 50px;
+}
+
+.topTen{
+    float: right;
+    font-size: 7em;
+    line-height: 0%;
+}
+
+.fourthQueryDiv{
+    padding: 30px;
+    margin: 50px;
+}
+
+.fifthQueryDiv{
+    border: 15px solid #ccccff;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 0px 30px 30px 30px;
+}
