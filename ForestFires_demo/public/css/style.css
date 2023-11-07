@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    line-height: 10vh;
+    text-align: center;
+    background-color: #000000bb;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position: sticky;
+    top: 0;
+}
+
+
+#forestFires{
+    width: 75%;
+    height: 75vh;
+    border: none;
+    margin-top: 10px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
