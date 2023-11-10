@@ -17,7 +17,7 @@ mongoimport <options> <connection-string> <file>
 3rd element: the file and file path
 4th element: the URI to my mongodb
 
-mongoimport --db Exercise1 --collection books --file "/Users/mathildedavan/Desktop/goodreads_books.json" --uri "mongodb+srv://mathilded:VoOchWKJQ1qrf6M4@cluster0.r715bes.mongodb.net/?retryWrites=true&w=majority"
+mongoimport --db Exercise1 --collection books --file "/Users/mathildedavan/Desktop/goodreads_books.json" --uri "mongodb+srv://<ID>:<password>@cluster0.r715bes.mongodb.net/?retryWrites=true&w=majority"
 
 */
 
