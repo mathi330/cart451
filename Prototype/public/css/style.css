@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    line-height: 10vh;
+    text-align: center;
+    background-color: #000000bb;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position: sticky;
+    top: 0;
+}
+
+
+input{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.03em;
+    background-color: antiquewhite;
+    border: none;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 10px;
+    cursor: pointer;
+}
+
+input:hover{
+    background-color: rgb(250, 235, 215, 0.9);
+}
+
+#map {
+    height: 90vh;
+}
+
+#map2 {
+    height: 90vh;
+}
+
+/* #abstract1{
+    height: 89.5vh;
+    width: 100em;
+}
+
+canvas{
+    width: 900px;
+} */
