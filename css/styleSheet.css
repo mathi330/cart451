@@ -44,8 +44,11 @@ hr{
     color: #ffffff;
     text-decoration: none;
     font-size: 1.1rem;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
 }
 
 .project-links:hover{
-    font-weight: bold;
+    font-weight:lighter
 }
